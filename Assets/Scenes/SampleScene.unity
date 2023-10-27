@@ -2372,7 +2372,7 @@ GameObject:
   - component: {fileID: 848397542}
   m_Layer: 0
   m_Name: ATTACK1
-  m_TagString: Untagged
+  m_TagString: AttackPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3778,7 +3778,7 @@ GameObject:
   - component: {fileID: 1236649214}
   m_Layer: 0
   m_Name: ATTACK2
-  m_TagString: Untagged
+  m_TagString: AttackPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5500,7 +5500,7 @@ GameObject:
   - component: {fileID: 1753534354}
   m_Layer: 0
   m_Name: ATTACKMID
-  m_TagString: Untagged
+  m_TagString: AttackPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
